@@ -1,5 +1,5 @@
 function delta_robot(q,robot_parameters)
-cla
+% cla
 hold on
 view(3) 
 grid on
